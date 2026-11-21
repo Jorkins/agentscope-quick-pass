@@ -1,4 +1,4 @@
-# AgentScope 快速通关系列
+# AgentScope 2.0 Java 快速通关系列
 
 > Java 后端工程师的 Agent 生产落地闯关手册。每一关在同一个工程里累加实现，闯完直接上生产。
 
